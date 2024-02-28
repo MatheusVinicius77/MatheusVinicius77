@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Matheus Vinicius
 
-- 🔭 Hoje eu trabalho com testes de software
 - 🌱 Estudando Java
 
 <div style="display: inline_block"><br>
